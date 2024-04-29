@@ -50,7 +50,12 @@ http://localhost:8080/api/traning/center
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
+
 | `api_key` | `string`  |
+
+
+
+https://github.com/Deepakkr3/assignment-Java/issues/1#issue-2268980878
 
 #### swagger ui
 http://localhost:8080/swagger-ui/index.html
@@ -58,9 +63,7 @@ http://localhost:8080/swagger-ui/index.html
 
 
 
-## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-01b417214/)
 
 
 
