@@ -60,6 +60,8 @@ https://github.com/Deepakkr3/assignment-Java/issues/1#issue-2268980878
 #### swagger ui
 http://localhost:8080/swagger-ui/index.html
 
+![Screenshot 2024-04-26 181649](https://github.com/Deepakkr3/assignment-Java/assets/115481021/76bb97a8-424a-4737-85e0-645f9a687f2b)
+
 
 
 
