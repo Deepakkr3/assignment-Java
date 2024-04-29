@@ -1,3 +1,4 @@
+
 # Project Title
 
 This repository contains Spring Boot and MySQL,JPA  The  allowing users to interact with the backend APIs.
@@ -18,6 +19,7 @@ This repository contains Spring Boot and MySQL,JPA  The  allowing users to inter
 ### Technologies Used
 - Spring Boot
 - MySQL
+-swagger ui
 
 
 ### Installation and Setup
@@ -50,7 +52,17 @@ http://localhost:8080/api/traning/center
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string`  |
 
-#### Get item
+#### swagger ui
+http://localhost:8080/swagger-ui/index.html
+
+
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumar-01b417214/)
+
+
 
 
 
